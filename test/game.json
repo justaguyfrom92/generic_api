@@ -1,0 +1,15 @@
+{
+  "id" : 0001
+  "date": "5/2/2024",
+  "hour": "11:10 PM",
+  "name": "Test",
+  "level":
+  {
+    "stage": 2
+  },
+  "exp":
+  {
+    "amount": 250
+  },
+  "health": 100
+}
